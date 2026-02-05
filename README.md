@@ -22,6 +22,8 @@ Step 4:
 Print the L matrix and U matrix.
 
 
+
+
 ii)To Find the LU Decomposition Solution of a Matrix
 
 Step 1:
@@ -41,8 +43,8 @@ Print the solution matrix X.
 ```
 /*
 Program to find the L and U matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: Rishikesh S
+RegisterNumber: 212225240118
 */
 import numpy as np
 from scipy.linalg import lu
@@ -55,8 +57,8 @@ print(U)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: Rishikesh S
+RegisterNumber: 212225240118
 */
 # To print X matrix (solution to the equations)
 import numpy as np
@@ -69,13 +71,17 @@ print(X)
 ```
 
 ## Output:
+
 (i) To find the L and U matrix
+
 <img width="592" height="361" alt="EXP-5A" src="https://github.com/user-attachments/assets/08845b8f-3b0d-4da6-bf26-a54b3e45e138" />
 
 (ii) To find the LU Decomposition of a matrix
+
 <img width="592" height="184" alt="EXP-5B" src="https://github.com/user-attachments/assets/ca2c33f4-8c0e-45f2-8784-d6a46ac60665" />
 
 
 ## Result:
+
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
